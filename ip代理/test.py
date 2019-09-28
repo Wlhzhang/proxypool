@@ -1,4 +1,4 @@
-from ip代理.get_module import Crawler
+from ip代理.db import Crawler
 from ip代理.store_module import RedisClient
 
 POOL_UPPER_THRESHOLD = 10000
